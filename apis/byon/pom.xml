@@ -32,7 +32,7 @@
 
   <properties>
     <test.byon.endpoint>file://c:/test.txt</test.byon.endpoint>
-    <test.byon.sudo-password />
+    <test.byon.sudo-password/>
   </properties>
 
   <dependencies>
@@ -70,7 +70,7 @@
     <dependency>
       <groupId>org.yaml</groupId>
       <artifactId>snakeyaml</artifactId>
-      <version>1.26</version>
+      <version>1.32</version>
     </dependency>
     <dependency>
       <groupId>com.google.auto.service</groupId>
